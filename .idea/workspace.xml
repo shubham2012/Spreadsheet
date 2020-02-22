@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba7b6155-8f09-43c7-a66c-3c71d08a2dc0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y78mcaBuxFM4uaTeoHqhoihPB7" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="spreadsheet" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="spreadsheet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpreadsheetTest.happy_flow_test_with_decrement_operator">
+    <configuration name="SpreadsheetTest.happy_flow_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spreadsheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spreadsheet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spreadsheet" />
+      <option name="MAIN_CLASS_NAME" value="spreadsheet.SpreadsheetTest" />
+      <option name="METHOD_NAME" value="happy_flow_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpreadsheetTest.happy_flow_test_with_decrement_operator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spreadsheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spreadsheet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spreadsheet" />
+      <option name="MAIN_CLASS_NAME" value="spreadsheet.SpreadsheetTest" />
+      <option name="METHOD_NAME" value="happy_flow_test_with_decrement_operator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpreadsheetTest.happy_flow_test_with_increment_operator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spreadsheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spreadsheet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spreadsheet" />
+      <option name="MAIN_CLASS_NAME" value="spreadsheet.SpreadsheetTest" />
+      <option name="METHOD_NAME" value="happy_flow_test_with_increment_operator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpreadsheetTest.happy_flow_test_with_negative_value" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spreadsheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spreadsheet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spreadsheet" />
+      <option name="MAIN_CLASS_NAME" value="spreadsheet.SpreadsheetTest" />
+      <option name="METHOD_NAME" value="happy_flow_test_with_negative_value" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpreadsheetTest.test_cyclic_dependency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spreadsheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spreadsheet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spreadsheet" />
+      <option name="MAIN_CLASS_NAME" value="spreadsheet.SpreadsheetTest" />
+      <option name="METHOD_NAME" value="test_cyclic_dependency" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpreadsheetTest.happy_flow_test_with_decrement_operator" />
+        <item itemvalue="JUnit.SpreadsheetTest.happy_flow_test_with_increment_operator" />
+        <item itemvalue="JUnit.SpreadsheetTest.test_cyclic_dependency" />
+        <item itemvalue="JUnit.SpreadsheetTest.happy_flow_test_with_negative_value" />
+        <item itemvalue="JUnit.SpreadsheetTest.happy_flow_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba7b6155-8f09-43c7-a66c-3c71d08a2dc0" name="Default Changelist" comment="" />
+      <created>1582282431992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582282431992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="166" key="#xdebugger.evaluate" timestamp="1582339988701">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="417" y="166" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1582339988701" />
+    <state width="1396" height="243" key="GridCell.Tab.0.bottom" timestamp="1582359647835">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="243" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582359647835" />
+    <state width="1396" height="243" key="GridCell.Tab.0.center" timestamp="1582359647834">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="243" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582359647834" />
+    <state width="1396" height="243" key="GridCell.Tab.0.left" timestamp="1582359647834">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="243" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582359647834" />
+    <state width="1396" height="243" key="GridCell.Tab.0.right" timestamp="1582359647835">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="243" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582359647835" />
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom" timestamp="1582341288427">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582341288427" />
+    <state width="1398" height="302" key="GridCell.Tab.1.center" timestamp="1582341288426">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582341288426" />
+    <state width="1398" height="302" key="GridCell.Tab.1.left" timestamp="1582341288425">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582341288425" />
+    <state width="1398" height="302" key="GridCell.Tab.1.right" timestamp="1582341288426">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582341288426" />
+    <state x="499" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582282572498">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="499" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1582282572498" />
+    <state x="458" y="224" key="extract.method.dialog" timestamp="1582340165940">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="224" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1582340165940" />
+    <state x="97" y="147" key="new project wizard" timestamp="1582341059382">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="147" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1582341059382" />
+  </component>
+</project>
