@@ -1,4 +1,4 @@
-# Spreadsheet
+# Spreadsheet calculator
 Spreadsheet calculator
 A spreadsheet consists of a two-diamensional array of cells, labeled A1, A2, etc. 
 Rows are identified using letters, columns by numbers. 
