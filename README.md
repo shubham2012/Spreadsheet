@@ -15,21 +15,21 @@ Input definitaion:
 Your program must output its data in the same formate, but each cell should be reduced to a single floating-point value. refer the following example for the same.
 
 Input
-3 2 
-A2 
-4 5* 
-A1
-A1 B2 / 2 +
-3
+3 2 \
+A2 \
+4 5* \ 
+A1\
+A1 B2 / 2 +\
+3\
 39 B1 B2 * /
 
 Output
-3 2 
-20.00000 
-20.00000 
-20.00000 
-8.66667 
-3.00000 
+3 2 \
+20.00000 \
+20.00000 \
+20.00000 \
+8.66667 \
+3.00000 \
 1.50000
 
 Comments: 
